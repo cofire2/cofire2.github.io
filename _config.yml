@@ -15,7 +15,7 @@ exclude: [vendor]
 # Author settings
 author:
   name: Traveler
-  title: A lone traveler
+  title: A lonely traveler
   address: china
   email: Traveler@163.com
   link: http://cofire.github.io
