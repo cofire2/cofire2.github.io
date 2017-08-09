@@ -27,6 +27,30 @@ author:
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
+    - work6:
+      company: 外出求学路
+      location: 宜春市, 江西省，中国---->上海，中国
+      started: 2013
+      duration: 2013
+      description: 在那一年的八月，哥哥送我踏上了外出求学路。
+    - work5:
+      company: 寒窗多年,一朝折桂
+      location: 宜春市, 江西省，中国
+      started: 2013
+      duration: 2013
+      description: 辛苦12年到了收获的季节，在13年的数据，传来喜讯，高中了。
+    - work4:
+      company: 荣升高中
+      location: 宜春市, 江西省，中国
+      started: 2010
+      duration: 2010
+      description: 县里只有两所高中，一所好的，另一所职高，努努力，咬咬牙进入了高中。
+    - work3:
+      company: 升学
+      location: 宜春市, 江西省，中国
+      started: 2007
+      duration: 2007
+      description: 九年义务教育一眨眼就完成了一多半，在07年的夏秋交际，进入了镇里的中学。
     - work2:
       company: 转校
       location: 宜春市, 江西省，中国
