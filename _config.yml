@@ -27,6 +27,18 @@ author:
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
+    - work7:
+      company: 踏入社会，学会忍受
+      location: 上海，中国
+      started: 2017
+      duration: 2017
+      description: 毕业后，留在了这个陌生又熟悉的城市，开始为了生活，为了未来而打拼。
+    - work7:
+      company: 毕业季，离别季
+      location: 上海，中国
+      started: 2017
+      duration: 2017
+      description: 时光如流水，大家已经开始收拾行囊，各奔东西。
     - work6:
       company: 外出求学路
       location: 宜春市, 江西省，中国---->上海，中国
