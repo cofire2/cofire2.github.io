@@ -27,34 +27,13 @@ author:
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
-    - work0:
-      company: 平淡无奇的出生
-      location: 宜春市, 江西省，中国
-      started: 1995
-      duration: 1995-1910
-      description: 不像其他的伟人，出生时或天降祥瑞，或七彩祥云，至少也是狂风暴雨的，而我就没听说我出生时有什么异象。
     - work1:
-      company: XXX Ltd
-      location: Auckland, New Zealand
-      title: Java Developer
-      started: 2014
-      duration: (2014 - Present)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-    - work2:
-      company: XXX Ltd
-      location: Shanghai, China
-      title: Java Developer
-      started: 2012
-      duration: (2012 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-    - work3:
-      company: XXX Ltd
-      location: Shanghai, China
-      title: Java Developer
-      started: 2009
-      duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-    - work4:
+      company: 迈进校门
+      location: 宜春市, 江西省，中国
+      started: 2001
+      duration: 2001
+      description: 到了读书的年纪，既没有上幼儿园，也没上学前班，腿一伸就成了小学生。
+    - work0:
       company: 平淡无奇的出生
       location: 宜春市, 江西省，中国
       started: 1995
