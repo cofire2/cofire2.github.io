@@ -1,6 +1,6 @@
 # Site settings
-title: Traveler's Resume 
-description: Traveler's CV
+title: Traveler's life journey 
+description: Traveler's life journey
 favicon: /assets/img/avatar.JPG
 baseurl: https://cofire2.github.io/
 url: https://cofire2.github.io/
@@ -15,8 +15,8 @@ exclude: [vendor]
 # Author settings
 author:
   name: Traveler
-  title: Java Developer
-  address: Auckland, New Zealand
+  title: A lone traveler
+  address: china
   email: Traveler@163.com
   link: http://cofire.github.io
   weibo:
