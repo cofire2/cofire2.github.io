@@ -102,17 +102,17 @@ author:
       proficiency: Limit
   programmingSkills:
     - skill1:
-      name: HTML
+      name: 洗衣
       percentage: 100%
     - skill2:
-      name: Bootstrap
+      name: 做饭
       percentage: 90%
     - skill3:
-      name: JavaScript
-      percentage: 70%
+      name: 忍耐
+      percentage: 100%
     - skill4:
-      name: AngularJS
-      percentage: 70%
+      name: 吃苦
+      percentage: 95%
     - skill5:
-      name: Java/Java EE
-      percentage: 90%
+      name: 耐劳
+      percentage: 95%
