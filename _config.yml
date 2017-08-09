@@ -1,6 +1,6 @@
 # Site settings
-title: Dong Liang's CV 
-description: ddbullfrog's CV
+title: Traveler's Resume 
+description: Traveler's CV
 favicon: /assets/img/avatar.JPG
 baseurl: https://cofire2.github.io/
 url: https://cofire2.github.io/
@@ -14,16 +14,16 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
+  name: Traveler
   title: Java Developer
   address: Auckland, New Zealand
-  email: dongg.liang#gmail.com
-  link: http://ddbullfrog.com
+  email: yli_666@163.com
+  link: http://cofire.github.io
   weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
-  gavatar: /resumecard/assets/img/avatar.JPG
+  github: cofire
+  linkedin: cofire
+  twitter: cofire
+  gavatar: /assets/img/avatar.JPG
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
