@@ -27,6 +27,12 @@ author:
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
+    - work2:
+      company: 转校
+      location: 宜春市, 江西省，中国
+      started: 2005
+      duration: 2005
+      description: 村里的小学只有一到四年级，读完了也就该外出求学了，这一年我就走入了新校门，到了乡里的小学。离开了家，走上了住宿的道路。
     - work1:
       company: 迈进校门
       location: 宜春市, 江西省，中国
