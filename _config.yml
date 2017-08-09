@@ -48,6 +48,12 @@ author:
       started: 2009
       duration: (2009 - 2012)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+    - work4:
+      company: 平淡无奇的出生
+      location: 宜春市, 江西省，中国
+      started: 1995
+      duration: 1995
+      description: 不像其他的伟人，出生时或天降祥瑞，或七彩祥云，至少也是狂风暴雨的，而我就没听说我出生时有什么异象。
   educationHistory:
     - education1:
       organization: 平淡无奇的出生
@@ -55,7 +61,7 @@ author:
       degree: Bachelor
       major: Software Engineering
       started: 1995
-      duration: 1995
+      duration: 1995-2001
       description: 不像其他的伟人，出生时或天降祥瑞，或七彩祥云，至少也是狂风暴雨的，而我就没听说我出生时有什么异象。
   languages:
     - language1:
