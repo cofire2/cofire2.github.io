@@ -96,7 +96,7 @@ hr {
 }
 
 .grid-block .gushiContent{
-   margin: auto;
+   margin-left: 15%;
 }
 
 .grid-block:before {
