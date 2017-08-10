@@ -87,15 +87,15 @@ hr {
     margin: 10px 0;
 }
 
-.grid-block h3{
+.grid-block .gushiName{
    text-align: center;
 }
 
-.grid-block h4{
+.grid-block .gushiAuthor{
    text-align: center;
 }
 
-.grid-block div{
+.grid-block .gushiContent{
    margin: auto;
 }
 
