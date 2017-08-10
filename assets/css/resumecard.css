@@ -95,8 +95,10 @@ hr {
    text-align: center;
 }
 
-.grid-block .gushiContent{
-   margin-left: 15%;
+.grid-block .gushiContent {
+    /* margin-left: 15%; */
+    margin: auto;
+    max-width: 280px;
 }
 
 .grid-block:before {
