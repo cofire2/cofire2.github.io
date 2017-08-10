@@ -87,6 +87,18 @@ hr {
     margin: 10px 0;
 }
 
+.grid-block h3{
+   text-align: center;
+}
+
+.grid-block h4{
+   text-align: center;
+}
+
+.grid-block div{
+   margin: auto;
+}
+
 .grid-block:before {
     content: '';
     display: block;
